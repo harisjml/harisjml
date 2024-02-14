@@ -3,7 +3,7 @@
 | ------------- | ------------- |
 <br/>
 📫 How to reach me: Harisjamaludin02@gmail.com
-<p>📍 Shah Alam, Selangor | 🎓 Information System student | 💻 Improving Java skills, diving into React.js.</p>
+<p>📍 Shah Alam, Selangor | 🎓 Bachelor Information System Student | 💻 Improving Java skills, diving into React.js.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/harisjml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harisjml" height="30" width="40" /></a>
